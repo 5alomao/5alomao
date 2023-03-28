@@ -1,20 +1,23 @@
-<h2 align="center">Seja Bem Vindo 👨‍💻</h2><br>
-<div align="center">
-  <a href="https://github.com/5alomao">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=5alomao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5alomao&layout=compact&langs_count=7&theme=midnight-purple"/>
-   </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b42&height=180&section=header&text=Salomão+Ferreira+Junior&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
+  ##
+<div align="left"> 
+  <h3>Git Stats</h3>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=5alomao&show_icons=true&count_private=true&hide_border=true&title_color=D41b42&icon_color=D41b42&text_color=fff&bg_color=0d1117" alt="5alomao's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5alomao&layout=compact&hide_border=true&title_color=D41b42&text_color=fff&bg_color=0d1117" />
 </div>
 
   ##
 <div style="display: inline_block">
   <h3>Linguagens</h3>
-  <img align="center" alt="-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="PureC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="PureC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
   ##
@@ -24,3 +27,4 @@
   <a href = "mailto:salomao.junior2k22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/5alomao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b42&height=150&section=footer"/>
