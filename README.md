@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Segue+aí+rs+!;)](https://git.io/typing-svg)
 
   ##
-<div align="left"> 
-  <h3>Git Stats</h3>
+<div align="center"> 
+  <h3 align="left">Git Stats</h3>
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=5alomao&show_icons=true&count_private=true&hide_border=true&title_color=D41b42&icon_color=D41b42&text_color=ffffff&bg_color=0d1117" alt="5alomao's github stats" /> 
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5alomao&layout=compact&hide_border=true&title_color=D41b42&text_color=ffffff&bg_color=0d1117" />
 </div>
